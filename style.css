@@ -1,0 +1,69 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+.body {
+    background-color:#11CF86;
+    margin: 0 auto;
+}
+
+
+
+#parrafo {
+    color:#010101;
+}
+
+/*
+ Fuentes
+ Remotas
+*/
+
+.h1 {
+	font-family: 'Open Sans';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+.h3 {
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.3999996185303px;
+}
+.p {
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+.blockquote {
+	font-family: 'Open Sans';
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.pre {
+	font-family: 'Open Sans';
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714302062988px;
+}
+
+
+
+/*
+ ============================================================================
+ Todos los demas estilos
+ 
+*/
